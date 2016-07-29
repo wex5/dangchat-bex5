@@ -2,7 +2,7 @@
 （最后修改日期：2016年07月22日）  
     
 由于铛铛在git中采用了SubModule的方式集中管理，所以需要使用命令行+递归参数获取完整代码，下载命令为：  
-git clone --recursive https://github.com/wex5/dangchat-bex5.git  
+git clone --recursive `https://github.com/wex5/dangchat-bex5.git`  
 为了方便广大开发者下载，我们还提供了完整源代码压缩包下载，[(点击下载)](http://www.wex5.com/downloads/) 
 	
 	在移动互联网高度普及的今天，IM在人们日常生活中得到普遍使用，面向企业的移动IM也已成为工作场景中的必需品。但当前面向企业的移动IM还存有三大硬伤：
