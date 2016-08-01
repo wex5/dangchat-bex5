@@ -52,18 +52,18 @@ CRM、HR、PM、SCM……各行各业，各类业务，无缝接入，一站式�
 铛铛v0.8.1全面公测已经开放，首批种子用户就等你来！
 
 **体验入口** ：
-体验入口页面提供了多端入口，包含iOS App、Android App、移动浏览器、PC桌面版、PC浏览器支持Chrome、Firefox、Safar)、MacOS桌面和IE浏览器下个版本支持。
-![输入图片说明](http://git.oschina.net/uploads/images/2016/0722/111817_11d80cf9_326111.png "在这里输入图片标题")
+体验入口页面提供了多端入口，包含iOS App、Android App、移动浏览器、PC桌面版、PC浏览器支持Chrome、Firefox、Safar)、MacOS桌面和IE浏览器下个版本支持。  
+![输入图片说明](http://git.oschina.net/uploads/images/2016/0722/111817_11d80cf9_326111.png "在这里输入图片标题")  
 或 [PC浏览器直接点击这里打开](http://dangchat.wex5.com/x5/UI2/v_5453_nol_zh_CNs_desktopd_pc/work_index/index.html)（初始账号 ：system 密码：123456；可自己注册帐号）
 ### 官网与论坛
 铛铛虽然面世不久，有待完善，但铛铛是起步科技股份的战略产品，官方会保持2~4周一个版本的速度快速迭代发展。各位开发者在开发过程中，如有问题和建议，欢迎回复，或到铛铛官方论坛交流：
 [点击进入铛铛官方页面](http://http://www.wex5.com/im/)
 [点击进入铛铛官方论坛](http://bbs.wex5.com/forum-123-1.html)
 
-### 在线支持
-- 铛铛技术支持微信号
-![铛铛技术支持微信号](http://git.oschina.net/uploads/images/2016/0801/140002_fb8292c4_326111.png "铛铛技术支持微信号")
-- 铛铛技术支持QQ号
+### 在线支持  
+**铛铛技术支持微信号**   
+![铛铛技术支持微信号](http://git.oschina.net/uploads/images/2016/0801/140002_fb8292c4_326111.png "铛铛技术支持微信号")  
+**铛铛技术支持QQ号**   
 3208058641
 
 ### 铛铛安装部署包
